@@ -12,6 +12,16 @@ Microsoft office 2021
 
 **[configuration-Office2021Enterprise.xml](https://mega.nz/file/QT8TXR5C#OLUCD9HjCfluVRYXFrnCW2khs3uy1EKjqyTinEP-XR4)**
 
+```plaintext
+./setup.exe /configure configuration-Office2021Enterprise.xml
+```
+
+or
+
+```plaintext
+.\setup.exe /configure .\configuration-Office2021Enterprise.xml
+```
+
 ---
 
 Return Microsoft Store
@@ -27,3 +37,9 @@ Delete all default programs
 ```plaintext
 Get-AppxPackage | Remove-AppxPackage
 ```
+
+---
+
+Hellzerg Optimizer
+**[URL on file Hellzerg](https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe)**
+**[URL on GitHub Repository](https://github.com/hellzerg/optimizer)**
