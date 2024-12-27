@@ -41,5 +41,7 @@ Get-AppxPackage | Remove-AppxPackage
 ---
 
 Hellzerg Optimizer
+
 **[URL on file Hellzerg](https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe)**
+
 **[URL on GitHub Repository](https://github.com/hellzerg/optimizer)**
