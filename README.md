@@ -8,9 +8,15 @@ irm https://massgrave.dev/get | iex
 
 Microsoft office 2021
 
+**OLD**
 **[setup.exe](https://mega.nz/file/oKNAzBJJ#frWcdklZd7_iPeSIYz2DH0Dme5R12kaCWFEJTSfDGRQ)**
 
 **[configuration-Office2021Enterprise.xml](https://mega.nz/file/QT8TXR5C#OLUCD9HjCfluVRYXFrnCW2khs3uy1EKjqyTinEP-XR4)**
+
+**NEW**
+**[Microsoft_Office_2021_ProPlus_64bit](https://www.dropbox.com/scl/fo/qp8iftts39vc7xyuejk9q/AJNDs6ytbSzxryucldyUAXE?rlkey=8z4tpyuno0tvbp9qct1ssmv4q&st=hxa1lgy0&dl=0)**
+
+**[Microsoft_Office_2021_ProPlus_32bit](https://www.dropbox.com/scl/fo/bb0wpmnbrna8kymd2c81w/AOXxrCQGgqwdOgxwBhzG-PA?rlkey=4659wgfcmx7jtle6n3rke04n1&st=coz4j26a&dl=0)**
 
 ---
 
