@@ -12,14 +12,18 @@ Microsoft office 2021
 
 **[configuration-Office2021Enterprise.xml](https://mega.nz/file/QT8TXR5C#OLUCD9HjCfluVRYXFrnCW2khs3uy1EKjqyTinEP-XR4)**
 
+---
+
+for 64bit
+
 ```plaintext
-./setup.exe /configure configuration-Office2021Enterprise.xml
+.\setup.exe /configure .\2021_64_office2021.xml
 ```
 
-or
+for 32bit
 
 ```plaintext
-.\setup.exe /configure .\configuration-Office2021Enterprise.xml
+.\setup.exe /configure .\2021_32_office2021.xml
 ```
 
 ---
